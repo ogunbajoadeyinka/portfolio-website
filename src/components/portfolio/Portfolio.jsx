@@ -1,10 +1,10 @@
 import Projects from "./Projects";
-import Legal from "../../assets/images/portfolio-images/Legal.JPG";
-import GFiber from "../../assets/images/portfolio-images/GFiber.JPG";
-import Hacker from "../../assets/images/portfolio-images/Hacker.JPG";
-import CSegmentation from "../../assets/images/portfolio-images/CSegmentation.JPG";
-import quality_assurance from "../../assets/images/portfolio-images/quality_assurance.JPG";
-import Customer24_7 from "../../assets/images/portfolio-images/Customer24_7.JPG";
+import Legal from "../../assets/images/portfolio-images/Legal.jpg";
+import GFiber from "../../assets/images/portfolio-images/GFiber.jpg";
+import Hacker from "../../assets/images/portfolio-images/Hacker.jpg";
+import CSegmentation from "../../assets/images/portfolio-images/CSegmentation.jpg";
+import quality_assurance from "../../assets/images/portfolio-images/quality_assurance.jpg";
+import Customer24_7 from "../../assets/images/portfolio-images/Customer24_7.jpg";
 
 const projectData = [
   {
